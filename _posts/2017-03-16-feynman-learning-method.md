@@ -3,7 +3,7 @@ layout: post
 title: "费曼：学习方法也是思维方式"
 description: "learning method"
 category: learning method
-tags: [learning, method, 学习方法]
+tags: [learning, method]
 ---
 {% include JB/setup %}
 
